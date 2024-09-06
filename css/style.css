@@ -1,0 +1,20 @@
+.root{
+    /* Header */
+    --tob-yelloW: #daa520;
+    --tob-light-blue: #add8e6;
+
+    /* Main */
+    --tob-dark-pink: #ee82ee;
+    --tob-blue: #00008b;
+    --tob-light-pink: #ffc0cb;
+    --tob-turkoise: #1e90ff;
+    --tob-light-grey: #d3d3d3;
+    --tob-green: #228b22;
+
+    /* Footer */
+    --tob-pink: #f08080;
+    --tob-sky: #20b2aa;
+    --tob-black: #23272a;
+    --tob-marine: #7fffd4;
+
+}
