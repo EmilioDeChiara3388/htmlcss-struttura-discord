@@ -43,7 +43,6 @@
     width: 20%;
     border: 3px dashed;
     align-items: center;
-    margin-top: 2rem;
 }
 
 .logo{
@@ -55,7 +54,6 @@
     width: 60%;
     border: 3px dashed;
     justify-content: center;
-    margin-top: 2rem;
 }
 
 a{
@@ -73,7 +71,6 @@ a{
     border: 3px dashed;
     justify-content: flex-end;
     align-items: center;
-    margin-top: 2rem;
 }
 
 .login{
@@ -82,7 +79,8 @@ a{
 
 .h-debug{
     background-color: #add8e6;
-    height: 100px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .h-container1-debug{
@@ -102,8 +100,43 @@ a{
 }
 
 .main-1-1{
+    width: 60%;
+}
+
+.main-1-1-debug{
     background-color: #ee82ee;
     border: 3px dashed;
-    width: 60%;
-    height: 350px;
+    height: 400px;
+}
+
+.main-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.main-2-debug{
+    background-color: white;
+    height: 600px;
+}
+
+.main-2-1{
+    width: 40%;
+}
+
+.main-2-1-debug{
+    background-color: #1e90ff;
+    border: 3px dashed;
+    height: 500px;
+}
+
+.main-2-2-debug{
+    width: 30%;
+}
+
+.main-2-2-debug{
+    background-color: #ffc0cb;
+    border: 3px dashed;
+    height: 500px;
 }
