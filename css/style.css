@@ -87,16 +87,16 @@ a{
     background-color: #daa520;;
 }
 
-.main-1-debug{
-    background-color: #00008b;
-    height: 500px;
-}
-
 .main-1{
     display: flex;
     margin: auto;
     align-items: center;
     justify-content: center;
+}
+
+.main-1-debug{
+    background-color: #00008b;
+    height: 500px;
 }
 
 .main-1-1{
@@ -131,7 +131,7 @@ a{
     height: 500px;
 }
 
-.main-2-2-debug{
+.main-2-2{
     width: 30%;
 }
 
@@ -139,4 +139,90 @@ a{
     background-color: #ffc0cb;
     border: 3px dashed;
     height: 500px;
+}
+
+.main-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.main-3-debug{
+    background-color: #d3d3d3;
+    height: 600px;
+}
+
+.main-3-1{
+    width: 30%;
+}
+
+.main-3-1-debug{
+    background-color: #ffc0cb;
+    border: 3px dashed;
+    height: 500px;
+}
+
+.main-3-2-debug{
+    width: 40%;
+}
+
+.main-3-2-debug{
+    background-color: #1e90ff;
+    border: 3px dashed;
+    height: 500px;
+}
+
+.main-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.main-4-debug{
+    background-color: white;
+    height: 600px;
+}
+
+.main-4-1{
+    width: 40%;
+}
+
+.main-4-1-debug{
+    background-color: #1e90ff;
+    border: 3px dashed;
+    height: 500px;
+}
+
+.main-4-2{
+    width: 30%;
+}
+
+.main-4-2-debug{
+    background-color: #ffc0cb;
+    border: 3px dashed;
+    height: 500px;
+}
+
+.main-5{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-5-debug{
+    background-color: #d3d3d3;
+    height: 1000px;
+}
+
+.main-5-1{
+    width: 60%;
+}
+
+.main-5-1-debug{
+    background-color: #228b22;
+    border: 3px dashed;
+    height: 900px;
 }
