@@ -1,3 +1,4 @@
+/* Colors */
 .root{
     /* Header */
     --tob-yelloW: #daa520;
@@ -17,4 +18,92 @@
     --tob-black: #23272a;
     --tob-marine: #7fffd4;
 
+}
+
+/* General */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+
+.h-container1{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    line-height: 30px;
+}
+
+
+
+.logo-container{
+    display: flex;
+    width: 20%;
+    border: 3px dashed;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.logo{
+    margin-left: 2rem;
+}
+
+.link-container{
+    display: flex;
+    width: 60%;
+    border: 3px dashed;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.link{
+    margin: 3px;
+}
+
+.login-container{
+    display: flex;
+    width: 20%;
+    border: 3px dashed;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.login{
+    margin-right: 2rem;
+}
+
+.h-debug{
+    background-color: #add8e6;
+    height: 100px;
+}
+
+.h-container1-debug{
+    background-color: #daa520;;
+}
+
+.main-1-debug{
+    background-color: #00008b;
+    height: 500px;
+}
+
+.main-1{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-1-1{
+    background-color: #ee82ee;
+    border: 3px dashed;
+    width: 60%;
+    height: 350px;
 }
